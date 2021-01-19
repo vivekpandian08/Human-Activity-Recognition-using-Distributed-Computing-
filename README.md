@@ -9,15 +9,7 @@
     - AWS EMR
     - AWS S3
 ​
-​
-## Contributors
-​
-- Shreejaya Bharathan
-- Ivette Sulca
-- Roja Immani
-- Aakanksha Nallabothula Surya
-- Sakshi Singla
-- Akansha Shrivastava
+
 ​
 ## Goal
 Determine which device-meter combination is best at recognizing Human activities among the following available devices and sensors per device:
